@@ -18,7 +18,6 @@ A lightweight, full-stack help desk web application built for simplicity, speed,
 - **Search, filter, sort, pagination** on ticket lists
 - **FAQ sidebar** for common issues (Client portal)
 - **Team workload dashboard** (Manager portal)
-- **Dark mode ready** structure (Tailwind `darkMode: 'class'`)
 
 ## Project Structure
 
