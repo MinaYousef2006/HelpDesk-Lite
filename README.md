@@ -91,12 +91,3 @@ Clients register via the `/register` page.
 | GET | `/api/users` | List users (Manager) |
 | GET | `/api/users/agents` | List agents |
 
-## Design
-
-- Primary: `#2563EB`
-- Background: `#F8FAFC`
-- Minimal UI inspired by Linear, Notion, GitHub
-
-## License
-
-MIT
