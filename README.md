@@ -1,6 +1,6 @@
 # HelpDesk Lite
 
-A lightweight, full-stack help desk web application built for simplicity, speed, and usability.
+A lightweight, full-stack HelpDesk Lite web application built for simplicity, speed, and usability.
 
 ## Tech Stack
 
