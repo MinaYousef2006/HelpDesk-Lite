@@ -71,9 +71,9 @@ After running the seed script:
 
 | Role | Email | Password |
 |------|-------|----------|
-| Support Agent | sarah.agent@helpdesk.com | Password123! |
-| Support Agent | mike.agent@helpdesk.com | Password123! |
-| Manager | emily.manager@helpdesk.com | Password123! |
+| Support Agent | sara.agent@helpdesk.com | Password123! |
+| Support Agent | ahmed.agent@helpdesk.com | Password123! |
+| Manager | mina.manager@helpdesk.com | Password123! |
 
 Clients register via the `/register` page.
 
